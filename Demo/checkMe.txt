@@ -1,0 +1,2 @@
+https://www.kaggle.com/christopher22/stylometry-identify-authors-by-sentence-structure 
+http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-55462018000100047 
