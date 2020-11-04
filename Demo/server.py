@@ -34,6 +34,7 @@ for author in authors:
 
     federalist_by_author_tokens[author] = ([token for token in tokens
                                             if any(c.isalpha() for c in token)])
+                                            
 
 @app.route('/kilgariff')
 def kilgariff():

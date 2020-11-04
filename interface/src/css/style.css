@@ -2,4 +2,20 @@
 @tailwind base;
 @tailwind components;
 /*! purgecss end ignore */
+
+.btn {
+  @apply px-2 py-1 text-gray-100 bg-teal-600 rounded;
+}
+
+.author {
+  @apply px-4 py-1 mt-8 ml-4 text-xl font-light text-gray-900 rounded-lg;
+}
+.author:focus {
+  @apply shadow-outline outline-none;
+}
+
+.paper {
+  @apply mt-4 font-light;
+}
+
 @tailwind utilities;
